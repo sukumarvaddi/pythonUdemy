@@ -1,0 +1,18 @@
+There are three basic sequence types. They are
+1. List
+2. Tuple
+3. Range
+
+A sequence is an ordered collection of items.
+If the sequence were not ordered, it would be hard to access elements in the sequence by index.
+
+Iterables: In python, anything you can iterate is an iterable. That means if you can use it in a "for" loop, it is an iterable.
+
+The actual definition of an "iterable" is that it is an object that either has an "__iter__" method or "__getitem__" method. Indexing must also
+start from zero.
+
+All sequence types are iterables.
+
+Not all iterables are sequences.
+
+Documentation of sequence types: https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range

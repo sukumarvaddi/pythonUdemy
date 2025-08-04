@@ -1,0 +1,8 @@
+The following are immutable types in python
+1. int
+2. string
+3. float
+4. bool (subtype of int)
+5. tuple
+6. frozenset
+7. byte

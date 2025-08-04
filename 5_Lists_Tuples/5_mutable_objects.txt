@@ -1,0 +1,12 @@
+A mutable object is one whose values can be changed.
+
+Python has the mutable objects built in.
+
+1. list
+2. dict
+3. set
+4. ByteArray
+
+
+
+

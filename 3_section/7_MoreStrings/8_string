@@ -1,0 +1,7 @@
+age = 24
+
+print(f"My name is Sukumar and Iam {age} years old.")
+
+pi = 22/7
+print(f"The value of PI is approximately {pi:<61.50f}")
+print(f"The value of PI is approximately {pi:61.50f}")
